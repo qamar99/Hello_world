@@ -6,7 +6,7 @@ public class prit_hello {
 
 
 System.out.println("hello world");
-
+//hello world
 
 	}
 
